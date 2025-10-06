@@ -7,7 +7,7 @@ function App() {
       <h1>M Soma Sekhar</h1>
       <h1>CICD DevOps</h1>
       <h1>S105</h1>
-      <p>Okayy byee lets see</p>
+      <p>Entra Chusedhi Jagrathagaa Chadhuvukooo</p>
     </div>
   );
 }
